@@ -4,3 +4,27 @@ body{
 h1{
     font-size: 40px;
 }
+.or-col{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+    padding-right: 5px;
+    padding-top: 15px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-size: 700;
+    background-color: orange;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
